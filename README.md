@@ -3,7 +3,7 @@
 Introduction class
 
 * **Course:** [HUDK 4050, Teachers College, Columbia](http://www.columbia.edu/~rsb2162/EDM2015/index.html)
-* **Instructor:** Charles Deng, [charles.lang@tc.columbia.edu](lang2@tc.columbia.edu), Twitter: @learng00d
+* **Instructor:** Charles Deng, [cd446@cornell.edu](lang2@tc.columbia.edu), Twitter: @learng00d
 * **Course Assistants:** Anna Lizarov, [al38684@tc.columbia.edu](al3868@tc.columbia.edu), Aidi Bian, [ab4499@tc.columbia.edu](ab4499@tc.columbia.edu)
 * **Day/Time:** Tuesdays/Thursdays, 5:10pm - 6:50pm  
 * **Location:** TH 136
